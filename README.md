@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
+basic setup I used for CoreModule.
+it includes
+1. Request-Interceptor
+2. Request Cahcing
+3. Authguard
+4. MessageService
+5. WindowRef
+6. Util
+7. AuthService
+8. Material module
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
